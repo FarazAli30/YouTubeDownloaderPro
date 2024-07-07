@@ -2,6 +2,8 @@
 
 YouTube Downloader is a Python-based GUI application that allows users to download videos and audio from YouTube. It supports both individual video URLs and playlists. The application is built using the Tkinter library for the GUI and Pytube for handling the video downloading.
 
+[Watch the demo video](https://scontent.cdninstagram.com/o1/v/t16/f1/m86/EE4907095AF4DFB1DB27B5BF6A70D6AD_video_dashinit.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_ht=instagram.fkhi4-3.fna.fbcdn.net&_nc_cat=108&vs=996766982139888_512515042&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRTQ5MDcwOTVBRjRERkIxREIyN0I1QkY2QTcwRDZBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dNcjN5eHE5UDc4cE1wc0JBSkl4NzJDRC1vVkRicV9FQUFBRhUCAsgBACgAGAAbABUAACa2iIz%2B3K3ZPxUCKAJDMywXQFgszMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HAA%3D%3D&_nc_rid=e28e86780f&ccb=9-4&oh=00_AYD2TUgEJ8mEPHeL6_WmbEOKgMfxJHApMJVC_IrXQ5Zgzw&oe=668C8ABF&_nc_sid=d885a2)
+
 ## Features
 
 - Download videos in 720p or 360p resolution.
